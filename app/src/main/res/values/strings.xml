@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HHz_b2b</string>
+    <string name="first_page">首页</string>
+    <string name="category_page">分类</string>
+    <string name="cart_page">购物车</string>
+    <string name="my_page">我的</string>
+</resources>
